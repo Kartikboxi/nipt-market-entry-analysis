@@ -1,0 +1,8 @@
+event_date,company,event_type,counterparty,amount_cr,cumulative_cr
+2025-03-31,Metropolis Healthcare,Acquisition,Core Diagnostics,247.0,247.0
+2025-04-07,Metropolis Healthcare,Acquisition,Dr Ahujas' Pathology & Imaging Centre,35.0,282.0
+2025-07-21,MedGenome,Funding,Maj Invest; Novo Holdings; Sofina,409.0,691.0
+2026-01-27,4baseCare,Funding,Ashish Kacholia; Lashit Sanghvi,90.0,781.0
+2026-05-01,Dr Lal PathLabs,Acquisition,Shahbazkers Diagnostic Centre,20.0,801.0
+2026-06-11,4baseCare,Funding,growX Ventures,38.0,839.0
+2026-08-10,Redcliffe Labs,Acquisition,Megavision Diagnostics,40.0,879.0

@@ -1,0 +1,5 @@
+key,label,value,unit,source,source_url
+births_2024,Registered live births in India (2024),25473389,births,Civil Registration System report 2024 (RGI; released Jul-2026),https://www.outlookindia.com/national/india-registered-over-25-crore-births-in-2024-what-the-civil-registration-system-report-reveals
+institutional_share,Share of births in a health facility,0.906,%,NFHS-6 (2023-24),https://www.dtnext.in/news/national/institutional-deliveries-in-india-up-from-886-in-2019-2020-to-906-in-2023-24-survey
+private_share,Share of institutional births in private facilities,0.30,%,NFHS-5 via CEDA Ashoka (43.2% urban / 24.3% rural),https://ceda.ashoka.edu.in/?p=5590
+usd_inr,USD/INR exchange rate,95,INR per USD,PTI (95.46 on 25-Aug-2026; about 95 in early Nov-2026),https://hdfcsky.com/news/rupee-rises-24-paise-to-close-at-95-46-against-us-dollar
